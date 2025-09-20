@@ -10,4 +10,6 @@
 
 3. gtkwave
 <img width="645" height="101" alt="gtkwave_terminal" src="https://github.com/user-attachments/assets/2f24bbae-caa8-4528-b225-6695aa022fb8" />
+
+4. gtkwave UI
 <img width="1092" height="712" alt="GtkwaveUI" src="https://github.com/user-attachments/assets/5fb3dfe0-4fb3-4f8d-9b13-91f8b575576b" />
